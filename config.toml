@@ -1,11 +1,11 @@
 # Basic information
-baseURL = 'https://taixhi.github.io/website-template' # Should be updated to your domain
+baseURL = 'https://wxddo.github.io' # Should be updated to your domain
 languageCode = 'en-us'
 theme="archie"
 
 # Metadata to edit
-title = 'Austin'
-copyright = "© Austin"
+title = 'Willow Page Delp'
+copyright = "© Willow Page Delp"
 blogTitle='Check out my blog:'
 
 # For code highlighting
@@ -17,12 +17,12 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
 name = "Instagram"
 icon = "instagram"
-url = "https://instagram.com/amherstcollege"
+url = "https://instagram.com/wxddo"
 
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/amherstcollege"
+url = "https://twitter.com/wxddod"
 
 # Menu items
 [[menu.main]]
